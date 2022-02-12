@@ -1,0 +1,17 @@
+ .postalcode {
+  margin: 2rem auto;
+  width: 40%;
+  max-width: 10rem;
+}
+
+
+.postalcode h5 {
+  text-align: center;
+  padding: 1rem;
+}
+
+.postalcode h1 {
+  text-align: center;
+  padding: 1rem;
+  color: #741188
+}
